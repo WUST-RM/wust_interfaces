@@ -24,7 +24,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DetectionResult.msg"
   "msg/DetectionResultBoundingBox.msg"
   "msg/PointsList.msg"
-  "msg/TimeAndHealth.msg"
+  "msg/Referee.msg"
   DEPENDENCIES
     std_msgs
     geometry_msgs
